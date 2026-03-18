@@ -4,7 +4,7 @@ export default function ProjectDetails() {
     const { id } = useParams();
     const navigate = useNavigate();
 
-    const GROUP_LINK = "https://chat.whatsapp.com/YOUR_GROUP_LINK";
+    const GROUP_LINK = "https://chat.whatsapp.com/G0mhikPyWTFJ72NB1eG1gQ";
 
     const allProjects = [
         {
