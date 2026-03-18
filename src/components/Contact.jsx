@@ -7,7 +7,7 @@ export default function Contact() {
     const form = useRef();
     const location = useLocation();
 
-    const GROUP_LINK = "hhttps://chat.whatsapp.com/G0mhikPyWTFJ72NB1eG1gQ";
+    const GROUP_LINK = "https://chat.whatsapp.com/G0mhikPyWTFJ72NB1eG1gQ";
 
     // 🔥 Auto open group when coming from Buy button
     useEffect(() => {
